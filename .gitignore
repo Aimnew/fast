@@ -1,6 +1,7 @@
 .env
-*.env
+env
+.venv
 venv
+*.env
+*env
 *venv
-.vscode
-.idea
